@@ -1,0 +1,12 @@
+[
+  {
+    "source": "nat-demo.py",
+    "public": "src/nat-demo.py",
+    "sanitized": true
+  },
+  {
+    "source": "nat-stop-test.py",
+    "public": "archive/nat-stop-test.py",
+    "sanitized": true
+  }
+]
